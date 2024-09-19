@@ -1,0 +1,51 @@
+Body{
+    background-color: #ffffff;
+    font-family: 'Poppins' 15px;
+    font-size: 10px;
+}
+
+
+nav{
+    background-color: rgba(253, 253, 253, 0.973);
+    margin-top:10px;
+    display: flexbox;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+mark{
+    background-color: yellow;
+    color:blue;
+    text-decoration-line: underline;
+}
+
+article{
+    border: solid 1px rgb(226, 223, 223);
+    border-radius: 6px;
+    padding-left: 15px;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+#letras{
+    display: inline;
+    background-color: rgb(112, 111, 111);
+    text-decoration-line: underline;
+}
+
+#logo{
+    display: inline-block;
+}
+
+
+footer{
+    margin-top: 150px;
+    background-color: aliceblue;
+    text-align: center;
+}
